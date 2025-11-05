@@ -10,12 +10,8 @@ int main() {
 
     printf("Enter your age: ");        
     scanf("%d", &age);
-
-
-    printf("%d\n", age);
-    printf("%f\n", gpa);
-    printf("%c\n", letter_grade);
-    printf("%s\n", name);
+    printf("Enter your gpa: ");
+    scanf("%f", &gpa);
 
     return 0;
 
