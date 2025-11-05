@@ -26,7 +26,7 @@ int main() {
         kilograms = pounds / 2.20462;
         printf("\nYour weight (%.2f pounds) in kilograms is %.2f.\n", pounds, kilograms);
     } else {
-        printf("You might have entered the choice section in the wrong format. Try again.\n");
+        printf("\nYou might have entered the choice section in the wrong format. Try again.\n");
     }
 
     return 0;
