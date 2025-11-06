@@ -7,7 +7,7 @@ int main() {
 
     srand(time(NULL));
     int guess = 0;
-    int max = 10;
+    int max = 100;
     int min = 1;
     int tries = 0;
 
