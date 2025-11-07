@@ -9,7 +9,7 @@ int main() {
 
     srand(time(NULL));
 
-    printf("\n**** ROCK PAPER SCISSORS ****\n");
+    printf("\n**** ROCK PAPER SCISSORS LALALALLA ****\n");
     int userChoice = getUserChoice();
     int computerChoice = getComputerChoice();
 
